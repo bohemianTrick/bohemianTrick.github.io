@@ -1,0 +1,26 @@
+.range-example[data-v-a8d3443e] {
+  padding: 0.625rem 1.25rem;
+}
+.range-example > p[data-v-a8d3443e] {
+  font-size: 1.25rem;
+  padding: 0.625rem;
+}
+.options-container > div[data-v-a8d3443e] {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 1.25rem;
+  background: white;
+  padding: 0.625rem;
+  border-bottom: 0.0625rem solid #e4e4e4;
+}
+.options-container > div[data-v-a8d3443e]:last-child {
+  border: none;
+}
+

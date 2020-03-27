@@ -1,0 +1,18 @@
+.examples-switch[data-v-2b06a233] {
+  padding: 1.25rem;
+}
+.examples-switch > div[data-v-2b06a233] {
+  background: white;
+  padding: 0.625rem;
+  margin-bottom: 0.625rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+span[data-v-2b06a233] {
+  margin-left: 0.625rem;
+}
+

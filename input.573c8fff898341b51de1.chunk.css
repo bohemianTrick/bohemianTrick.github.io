@@ -1,0 +1,26 @@
+.examples-input[data-v-153dd9ac] {
+  padding: 1.25rem;
+}
+.examples-input > p[data-v-153dd9ac] {
+  font-size: 1.25rem;
+  padding: 0.625rem;
+}
+.options-container > div[data-v-153dd9ac] {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 1.25rem;
+  background: white;
+  padding: 0.625rem;
+  border-bottom: 0.0625rem solid #e4e4e4;
+}
+.options-container > div[data-v-153dd9ac]:last-child {
+  border: none;
+}
+
